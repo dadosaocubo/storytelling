@@ -18,7 +18,7 @@ bubble = px.scatter(data_country, x="gdpPercap", y="lifeExp",
 
 
 app.layout = html.Div(children=[
-		html.H1(children='Helo Dados ao Cubo'),
+		html.H1(children='Hello Dados ao Cubo'),
 
 		html.Div(
 			[
